@@ -37,7 +37,8 @@ export default{
 .bordered {
 
     width: 85%;
-    margin: 0 auto 5;
+    margin: 0 auto;
+    margin-bottom: 5px;
 
     border: 1px solid black;
     padding: 10px;
